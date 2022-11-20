@@ -20,4 +20,7 @@ Open http://localhost:3000/ to view it in the browser.
 
 The page will reload if you make edits.
 You will also see any lint errors in the console.
+
+
+
 ![hulu](https://user-images.githubusercontent.com/109916927/202923198-13a0788d-4ea2-4807-8131-41dfbd598701.png)
