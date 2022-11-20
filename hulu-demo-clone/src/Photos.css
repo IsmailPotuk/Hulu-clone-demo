@@ -1,0 +1,27 @@
+.Photos {
+    color: white;
+    width: 500px;
+    height: 400px;
+    padding: 20px;
+    transition: transform 90ms ease-in;
+}
+
+.Photos:hover {
+    transform: scale(1.05);
+}
+.Photos > img {
+    height: 300px;
+    object-fit: contain;
+    width: 450px;
+}
+
+.Photos > h2 {
+    padding-top: 10px;
+}
+
+.Photos__stats {
+    display: none;
+}
+.Photos:hover > .Photos__stats {
+    display: inline-flex;
+}
